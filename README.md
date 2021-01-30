@@ -8,7 +8,7 @@
  * Clean Data
  * Merge Data (csv)
  * Create DataFrames for City types, Fares, Averages
- * Use information to create differnt types of charts to analyze data 
+ * Use information to create different types of charts to analyze data 
 
 ** Charts Analyzing  ( the following charts show preliminary results)
   
@@ -16,13 +16,13 @@
     - We see in this chart that there is a direct relation in terms of population and the amount rides that are taken. In Urban areas the number of rides is high but the average fare is lower. We also see although the Rural rides have higher average fares per ride they are much less frequent. The Suburban fares fall in the middle of the data set. Population is a big factor in the number of rides. 
   
   * http://localhost:8888/view/PyBer_Analysis/analysis/Fig2.png
-    - this box and whisper graph for the "Ride Count Data" shows that "there is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively".
+    - this box and whisper graph for the "Ride Count Data" shows that "there is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively".(Canvas Module)
 
  * http://localhost:8888/view/PyBer_Analysis/analysis/Fig3.png
-    - this box and whisper graph for the "Ride Fare Data" shows "that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively". We can assume the difference is due to Rural Rides are longer and therefore more costly, however it seems volume is the key to higher revenue. Individuals would be more inclined to use Pyber in Urban areas due to the percieved value that its "inexpensive, & convenient".
+    - this box and whisper graph for the "Ride Fare Data" shows "that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively"(Canvas Module). We can assume the difference is due to Rural Rides are longer and therefore more costly, however it seems volume is the key to higher revenue. Individuals would be more inclined to use Pyber in Urban areas due to the percieved value that its "inexpensive, & convenient".
  
  * http://localhost:8888/view/PyBer_Analysis/analysis/Fig4.png
-    - the final box and whisper plot for "Driver Count by City Type" shows, "The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively" We can conclude again that although competition to get fares is greater in Urban areas its still worth it compared to rural areas.
+    - the final box and whisper plot for "Driver Count by City Type" shows, "The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively"(Canvas Module). We can conclude again that although competition to get fares is greater in Urban areas its still worth it compared to rural areas.
   
  * http://localhost:8888/view/PyBer_Analysis/analysis/Fig5.png 
     - this pie chart illustrates the percentage of total fares by city type. It validates our thought process that Urban fares are creating a moajority of the revenue.
